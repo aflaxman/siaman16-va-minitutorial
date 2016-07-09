@@ -1,3 +1,2 @@
 seaborn
 git+git://github.com/scikit-learn/scikit-learn.git
-pymc
