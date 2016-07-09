@@ -1,0 +1,2703 @@
+id,gs_text34,gs_assigned_MRR_1
+0,Stroke,ZZ23
+1,IHD - Acute Myocardial Infarction,I21
+2,Stroke,I64
+3,Pneumonia,E10
+4,Stroke,I64
+5,Other Cardiovascular Diseases,ZZ25
+6,Diabetes,E10
+7,Renal Failure,D91
+8,Stroke,ZZ23
+9,IHD - Acute Myocardial Infarction,ZZ23
+10,Cirrhosis,A09
+11,Stroke,ZZ23
+12,Stroke,ZZ23
+13,Stroke,W00
+14,Other Cardiovascular Diseases,I21
+15,Diabetes,E10
+16,Poisonings,ZZ25
+17,Diarrhea/Dysentery,I64
+18,Stroke,ZZ23
+19,IHD - Acute Myocardial Infarction,ZZ23
+20,Epilepsy,J45
+21,Falls,W00
+22,Stroke,ZZ25
+23,IHD - Acute Myocardial Infarction,E10
+24,IHD - Acute Myocardial Infarction,E10
+25,Pneumonia,J33
+26,Stroke,ZZ23
+27,IHD - Acute Myocardial Infarction,I21
+28,Stroke,ZZ23
+29,Falls,W00
+30,Stroke,I64
+31,Stroke,I64
+32,Other Cardiovascular Diseases,ZZ23
+33,Stroke,I64
+34,Stroke,I64
+35,TB,B54
+36,Stroke,ZZ23
+37,Fires,ZZ27
+38,IHD - Acute Myocardial Infarction,B20
+39,Stroke,J45
+40,IHD - Acute Myocardial Infarction,I21
+41,Stroke,I64
+42,Stroke,I64
+43,Stroke,I64
+44,Fires,X09
+45,Stroke,ZZ27
+46,Stroke,B54
+47,Fires,X09
+48,Poisonings,ZZ27
+49,Fires,X09
+50,Stroke,I64
+51,Renal Failure,ZZ21
+52,Diarrhea/Dysentery,A15
+53,Renal Failure,N17
+54,Fires,ZZ27
+55,Fires,ZZ27
+56,Stroke,I64
+57,Renal Failure,A09
+58,Colorectal Cancer,A16
+59,Stroke,W00
+60,Falls,W00
+61,Cirrhosis,K71
+62,Stroke,ZZ25
+63,Renal Failure,ZZ25
+64,Stroke,I64
+65,Stroke,I21
+66,Stroke,I64
+67,IHD - Acute Myocardial Infarction,I21
+68,Stroke,ZZ23
+69,Stroke,E10
+70,Epilepsy,ZZ25
+71,Cirrhosis,K71
+72,Stroke,J33
+73,Fires,X09
+74,Suicide,T36
+75,Stroke,ZZ23
+76,IHD - Acute Myocardial Infarction,E10
+77,Stroke,W00
+78,Suicide,X70
+79,Stroke,I64
+80,Stroke,I21
+81,Suicide,ZZ27
+82,Stroke,ZZ23
+83,Stroke,W00
+84,Stroke,ZZ23
+85,IHD - Acute Myocardial Infarction,I21
+86,Stroke,ZZ23
+87,Falls,W00
+88,Cirrhosis,K71
+89,Stroke,I64
+90,Stroke,ZZ23
+91,Diabetes,E10
+92,Stroke,I64
+93,AIDS,I64
+94,Poisonings,ZZ27
+95,Stroke,I64
+96,Suicide,X70
+97,Diabetes,E10
+98,Suicide,X09
+99,IHD - Acute Myocardial Infarction,I21
+100,Stroke,I64
+101,Malaria,ZZ25
+102,IHD - Acute Myocardial Infarction,I21
+103,Poisonings,ZZ25
+104,Poisonings,J33
+105,Renal Failure,ZZ25
+106,Stroke,I21
+107,IHD - Acute Myocardial Infarction,ZZ23
+108,Falls,ZZ27
+109,Falls,W00
+110,Falls,W00
+111,Diarrhea/Dysentery,ZZ23
+112,IHD - Acute Myocardial Infarction,I21
+113,Stroke,ZZ23
+114,Fires,X09
+115,IHD - Acute Myocardial Infarction,I21
+116,IHD - Acute Myocardial Infarction,J33
+117,Diarrhea/Dysentery,I64
+118,IHD - Acute Myocardial Infarction,I21
+119,Stroke,I64
+120,Stroke,ZZ21
+121,IHD - Acute Myocardial Infarction,I21
+122,Stroke,I64
+123,AIDS,B20
+124,Cirrhosis,K71
+125,Poisonings,ZZ27
+126,Falls,W00
+127,Renal Failure,A09
+128,Stroke,I64
+129,Renal Failure,B54
+130,Epilepsy,I64
+131,AIDS,B20
+132,Malaria,ZZ30
+133,Diabetes,E10
+134,Diabetes,E10
+135,AIDS,B20
+136,Malaria,B54
+137,Falls,E10
+138,Renal Failure,ZZ21
+139,Other Non-communicable Diseases,ZZ21
+140,Other Cardiovascular Diseases,I21
+141,IHD - Acute Myocardial Infarction,I21
+142,IHD - Acute Myocardial Infarction,J12
+143,Renal Failure,I64
+144,Diarrhea/Dysentery,A09
+145,Other Non-communicable Diseases,N17
+146,Renal Failure,ZZ23
+147,Other Infectious Diseases,I64
+148,Other Infectious Diseases,J45
+149,Diarrhea/Dysentery,ZZ25
+150,Other Cardiovascular Diseases,J33
+151,Renal Failure,I21
+152,Cirrhosis,A16
+153,Renal Failure,ZZ21
+154,Homicide,Y00
+155,IHD - Acute Myocardial Infarction,I21
+156,Diarrhea/Dysentery,I64
+157,Renal Failure,E10
+158,IHD - Acute Myocardial Infarction,I21
+159,Diabetes,B20
+160,COPD,I64
+161,IHD - Acute Myocardial Infarction,I21
+162,Renal Failure,ZZ25
+163,Bite of Venomous Animal,ZZ27
+164,Drowning,ZZ25
+165,IHD - Acute Myocardial Infarction,J33
+166,Pneumonia,ZZ25
+167,Diarrhea/Dysentery,I21
+168,Renal Failure,ZZ25
+169,Diabetes,E10
+170,IHD - Acute Myocardial Infarction,I21
+171,IHD - Acute Myocardial Infarction,I21
+172,Other Infectious Diseases,B54
+173,IHD - Acute Myocardial Infarction,I21
+174,IHD - Acute Myocardial Infarction,I21
+175,Diabetes,E10
+176,Malaria,ZZ25
+177,Diabetes,E10
+178,Diarrhea/Dysentery,ZZ25
+179,Stomach Cancer,ZZ25
+180,Other Infectious Diseases,K71
+181,Other Infectious Diseases,ZZ25
+182,Diabetes,E10
+183,IHD - Acute Myocardial Infarction,I21
+184,Diarrhea/Dysentery,E10
+185,Renal Failure,ZZ25
+186,Diabetes,I21
+187,Diarrhea/Dysentery,ZZ25
+188,IHD - Acute Myocardial Infarction,E10
+189,AIDS,B20
+190,Epilepsy,A15
+191,TB,A15
+192,Renal Failure,ZZ25
+193,Prostate Cancer,H61
+194,Epilepsy,ZZ21
+195,Malaria,I64
+196,Diabetes,E10
+197,Bite of Venomous Animal,ZZ27
+198,Diabetes,E10
+199,Homicide,Y00
+200,Homicide,K71
+201,Renal Failure,ZZ25
+202,Other Cardiovascular Diseases,K71
+203,AIDS,B20
+204,Other Infectious Diseases,ZZ21
+205,Diabetes,E10
+206,IHD - Acute Myocardial Infarction,I21
+207,Renal Failure,K71
+208,IHD - Acute Myocardial Infarction,I21
+209,IHD - Acute Myocardial Infarction,I21
+210,IHD - Acute Myocardial Infarction,I21
+211,Renal Failure,I64
+212,Diabetes,E10
+213,Diabetes,E10
+214,IHD - Acute Myocardial Infarction,I21
+215,Cirrhosis,J33
+216,Renal Failure,ZZ25
+217,Renal Failure,B54
+218,Renal Failure,ZZ23
+219,Cirrhosis,K71
+220,Other Infectious Diseases,ZZ21
+221,Diabetes,E10
+222,Epilepsy,G40
+223,Bite of Venomous Animal,ZZ27
+224,Bite of Venomous Animal,ZZ27
+225,IHD - Acute Myocardial Infarction,D91
+226,Stroke,I64
+227,IHD - Acute Myocardial Infarction,I21
+228,Renal Failure,ZZ25
+229,Other Injuries,ZZ27
+230,Renal Failure,ZZ25
+231,Other Cardiovascular Diseases,E10
+232,Diarrhea/Dysentery,A09
+233,Renal Failure,ZZ25
+234,Renal Failure,J33
+235,AIDS,I64
+236,Renal Failure,ZZ25
+237,Renal Failure,ZZ25
+238,AIDS,B20
+239,AIDS,B20
+240,Epilepsy,E10
+241,Diabetes,E10
+242,Asthma,E10
+243,Diarrhea/Dysentery,ZZ21
+244,Diabetes,E10
+245,Other Cardiovascular Diseases,ZZ25
+246,Diabetes,E10
+247,Diabetes,E10
+248,Diabetes,E10
+249,Renal Failure,ZZ25
+250,Pneumonia,ZZ21
+251,Asthma,J45
+252,Bite of Venomous Animal,ZZ27
+253,Renal Failure,ZZ25
+254,Drowning,ZZ27
+255,Drowning,W65
+256,Drowning,W65
+257,Drowning,W65
+258,Drowning,W65
+259,Drowning,E10
+260,Homicide,Y00
+261,Drowning,W65
+262,Drowning,W65
+263,Drowning,W65
+264,Bite of Venomous Animal,ZZ27
+265,Drowning,W65
+266,Drowning,W65
+267,Bite of Venomous Animal,ZZ27
+268,Drowning,W65
+269,Diabetes,ZZ25
+270,Diarrhea/Dysentery,A09
+271,Renal Failure,ZZ25
+272,Diabetes,N17
+273,AIDS,A09
+274,IHD - Acute Myocardial Infarction,I21
+275,AIDS,B20
+276,AIDS,B20
+277,IHD - Acute Myocardial Infarction,I21
+278,AIDS,K71
+279,Diarrhea/Dysentery,I64
+280,Epilepsy,ZZ25
+281,IHD - Acute Myocardial Infarction,ZZ21
+282,Renal Failure,ZZ25
+283,Other Cardiovascular Diseases,A15
+284,Drowning,ZZ27
+285,Other Cardiovascular Diseases,E10
+286,Renal Failure,ZZ25
+287,Pneumonia,ZZ25
+288,Other Infectious Diseases,ZZ21
+289,Diabetes,E10
+290,Pneumonia,ZZ21
+291,Pneumonia,I21
+292,IHD - Acute Myocardial Infarction,E10
+293,Pneumonia,ZZ21
+294,Diabetes,E10
+295,Other Infectious Diseases,A09
+296,IHD - Acute Myocardial Infarction,E10
+297,IHD - Acute Myocardial Infarction,A09
+298,Pneumonia,J12
+299,Pneumonia,I21
+300,Pneumonia,ZZ21
+301,Diabetes,E10
+302,AIDS,A15
+303,Pneumonia,I64
+304,AIDS,ZZ21
+305,AIDS,ZZ25
+306,IHD - Acute Myocardial Infarction,I21
+307,Pneumonia,B54
+308,TB,A15
+309,AIDS,B20
+310,Pneumonia,ZZ21
+311,IHD - Acute Myocardial Infarction,I21
+312,Malaria,B54
+313,Asthma,J33
+314,Malaria,I64
+315,Renal Failure,I64
+316,Renal Failure,ZZ25
+317,Cirrhosis,ZZ21
+318,AIDS,ZZ23
+319,Pneumonia,ZZ21
+320,Asthma,ZZ25
+321,Pneumonia,ZZ25
+322,Diabetes,I21
+323,Colorectal Cancer,ZZ23
+324,Diabetes,E10
+325,Malaria,B54
+326,Diarrhea/Dysentery,ZZ23
+327,Diabetes,E10
+328,Pneumonia,J12
+329,Pneumonia,ZZ23
+330,Cirrhosis,ZZ25
+331,AIDS,B20
+332,AIDS,A15
+333,AIDS,J33
+334,AIDS,A15
+335,TB,A15
+336,AIDS,B20
+337,AIDS,B20
+338,AIDS,A15
+339,TB,A15
+340,TB,A15
+341,COPD,A15
+342,AIDS,B20
+343,AIDS,B20
+344,Falls,A15
+345,TB,A15
+346,TB,A09
+347,TB,A15
+348,TB,B20
+349,TB,A15
+350,AIDS,A15
+351,AIDS,B20
+352,Asthma,A15
+353,TB,A15
+354,TB,J33
+355,TB,A15
+356,AIDS,B20
+357,Pneumonia,I21
+358,TB,B20
+359,TB,A15
+360,TB,A15
+361,TB,A15
+362,AIDS,ZZ25
+363,TB,A15
+364,AIDS,B20
+365,AIDS,B20
+366,TB,J45
+367,TB,J33
+368,TB,N17
+369,COPD,A15
+370,AIDS,A15
+371,AIDS,B20
+372,AIDS,B20
+373,AIDS,I21
+374,TB,A15
+375,TB,A15
+376,COPD,I64
+377,COPD,I64
+378,TB,A15
+379,COPD,A15
+380,Asthma,J45
+381,AIDS,B20
+382,AIDS,A15
+383,TB,A15
+384,TB,A15
+385,TB,A15
+386,TB,A15
+387,TB,A15
+388,COPD,A15
+389,TB,A15
+390,TB,A15
+391,COPD,A15
+392,TB,A15
+393,TB,A15
+394,TB,A15
+395,AIDS,A15
+396,TB,B20
+397,TB,A15
+398,TB,A15
+399,TB,A15
+400,Maternal,O67
+401,Maternal,ZZ25
+402,Maternal,O67
+403,AIDS,I21
+404,Diabetes,E10
+405,Asthma,J45
+406,Other Cardiovascular Diseases,J33
+407,Diarrhea/Dysentery,A09
+408,Malaria,B54
+409,Pneumonia,J12
+410,Cirrhosis,ZZ27
+411,Other Cardiovascular Diseases,ZZ25
+412,Cirrhosis,ZZ21
+413,Diarrhea/Dysentery,A09
+414,Pneumonia,ZZ21
+415,Leukemia/Lymphomas,D91
+416,Malaria,B54
+417,Pneumonia,A15
+418,Diarrhea/Dysentery,A09
+419,Asthma,J45
+420,Malaria,ZZ30
+421,Asthma,I64
+422,Malaria,K71
+423,Maternal,ZZ23
+424,Diarrhea/Dysentery,ZZ25
+425,Other Infectious Diseases,A15
+426,Malaria,B54
+427,Other Infectious Diseases,A15
+428,Diarrhea/Dysentery,A09
+429,Pneumonia,ZZ21
+430,Malaria,ZZ21
+431,Diarrhea/Dysentery,J12
+432,Cirrhosis,A15
+433,Malaria,ZZ30
+434,Epilepsy,G40
+435,AIDS,B20
+436,AIDS,I64
+437,Stomach Cancer,A16
+438,Breast Cancer,C50
+439,Cirrhosis,ZZ21
+440,Cervical Cancer,ZZ25
+441,Asthma,J33
+442,Other Non-communicable Diseases,D91
+443,Colorectal Cancer,G18
+444,Other Non-communicable Diseases,ZZ25
+445,Diarrhea/Dysentery,A09
+446,Diarrhea/Dysentery,ZZ23
+447,Diarrhea/Dysentery,E10
+448,Epilepsy,I64
+449,Other Non-communicable Diseases,ZZ25
+450,Diabetes,ZZ30
+451,Cirrhosis,K71
+452,AIDS,B20
+453,Pneumonia,I64
+454,Epilepsy,ZZ25
+455,Cirrhosis,ZZ21
+456,Pneumonia,I21
+457,Cirrhosis,A09
+458,Other Non-communicable Diseases,ZZ25
+459,Diarrhea/Dysentery,B20
+460,Diabetes,B54
+461,Diarrhea/Dysentery,B20
+462,Diarrhea/Dysentery,A09
+463,Pneumonia,J33
+464,Other Non-communicable Diseases,A16
+465,Asthma,J45
+466,Epilepsy,ZZ25
+467,Diarrhea/Dysentery,J45
+468,Epilepsy,I64
+469,Colorectal Cancer,ZZ25
+470,Diarrhea/Dysentery,ZZ25
+471,Maternal,ZZ25
+472,Stomach Cancer,A16
+473,Diabetes,I21
+474,Other Cardiovascular Diseases,ZZ23
+475,Pneumonia,W00
+476,Maternal,O67
+477,Lung Cancer,C34
+478,Other Cardiovascular Diseases,K71
+479,Other Cardiovascular Diseases,I21
+480,Other Cardiovascular Diseases,I21
+481,Other Cardiovascular Diseases,I21
+482,Colorectal Cancer,ZZ27
+483,Leukemia/Lymphomas,A16
+484,Other Cardiovascular Diseases,ZZ27
+485,Cirrhosis,K71
+486,COPD,E10
+487,Cirrhosis,ZZ25
+488,Breast Cancer,C34
+489,Other Non-communicable Diseases,E10
+490,Pneumonia,E10
+491,Leukemia/Lymphomas,ZZ25
+492,Lung Cancer,I64
+493,Stomach Cancer,ZZ25
+494,COPD,I21
+495,Other Non-communicable Diseases,N17
+496,Lung Cancer,A15
+497,Other Cardiovascular Diseases,E10
+498,Diabetes,E10
+499,Cirrhosis,A15
+500,Diabetes,ZZ25
+501,IHD - Acute Myocardial Infarction,ZZ23
+502,TB,J12
+503,Breast Cancer,C50
+504,Renal Failure,N17
+505,Pneumonia,J12
+506,Breast Cancer,C50
+507,Cirrhosis,K71
+508,Diabetes,E10
+509,IHD - Acute Myocardial Infarction,E10
+510,IHD - Acute Myocardial Infarction,I21
+511,IHD - Acute Myocardial Infarction,ZZ30
+512,Pneumonia,ZZ25
+513,Pneumonia,ZZ25
+514,Cervical Cancer,ZZ25
+515,IHD - Acute Myocardial Infarction,ZZ25
+516,Cirrhosis,ZZ25
+517,Pneumonia,E10
+518,Diabetes,E10
+519,Pneumonia,I64
+520,COPD,J33
+521,Stroke,I64
+522,Other Cardiovascular Diseases,I21
+523,Stroke,ZZ23
+524,IHD - Acute Myocardial Infarction,E10
+525,IHD - Acute Myocardial Infarction,J12
+526,Maternal,O67
+527,IHD - Acute Myocardial Infarction,I21
+528,Diabetes,E10
+529,Breast Cancer,C50
+530,Diabetes,E10
+531,Pneumonia,J33
+532,Diabetes,E10
+533,Maternal,O67
+534,Other Cardiovascular Diseases,J12
+535,Maternal,ZZ23
+536,Suicide,ZZ25
+537,Other Cardiovascular Diseases,E10
+538,Cirrhosis,K71
+539,IHD - Acute Myocardial Infarction,ZZ23
+540,IHD - Acute Myocardial Infarction,J12
+541,IHD - Acute Myocardial Infarction,I21
+542,Pneumonia,ZZ23
+543,Diabetes,E10
+544,Diabetes,E10
+545,Breast Cancer,C50
+546,Maternal,O67
+547,Cirrhosis,K71
+548,Pneumonia,ZZ23
+549,Lung Cancer,ZZ23
+550,Maternal,ZZ25
+551,Colorectal Cancer,G18
+552,Leukemia/Lymphomas,D91
+553,Other Cardiovascular Diseases,I21
+554,Leukemia/Lymphomas,D91
+555,Lung Cancer,C34
+556,Diabetes,ZZ27
+557,Cervical Cancer,D05
+558,Diabetes,J12
+559,Leukemia/Lymphomas,D91
+560,Breast Cancer,C50
+561,Cirrhosis,K71
+562,Stomach Cancer,A16
+563,Diabetes,E10
+564,Lung Cancer,C34
+565,Colorectal Cancer,ZZ25
+566,Renal Failure,J12
+567,Pneumonia,ZZ25
+568,Epilepsy,ZZ25
+569,Renal Failure,ZZ25
+570,Road Traffic,V99
+571,Breast Cancer,C50
+572,Maternal,O67
+573,Road Traffic,V99
+574,IHD - Acute Myocardial Infarction,I21
+575,Stroke,I64
+576,Stroke,I64
+577,Falls,W00
+578,Stroke,I64
+579,IHD - Acute Myocardial Infarction,A15
+580,Diabetes,I21
+581,Stroke,ZZ23
+582,Road Traffic,V99
+583,Homicide,Y00
+584,Stroke,I21
+585,Other Cardiovascular Diseases,E10
+586,Other Cardiovascular Diseases,E10
+587,IHD - Acute Myocardial Infarction,I21
+588,Homicide,Y00
+589,Road Traffic,V99
+590,Stroke,ZZ23
+591,Pneumonia,ZZ25
+592,Diarrhea/Dysentery,G18
+593,Homicide,ZZ27
+594,Road Traffic,V99
+595,Road Traffic,V99
+596,Road Traffic,V99
+597,Diabetes,E10
+598,Diabetes,E10
+599,Falls,ZZ23
+600,Cirrhosis,K71
+601,Stroke,I64
+602,Diabetes,ZZ25
+603,Stroke,I64
+604,Pneumonia,ZZ23
+605,Diabetes,N17
+606,Road Traffic,V99
+607,Pneumonia,ZZ25
+608,Stroke,I64
+609,Stroke,I64
+610,Stroke,I64
+611,Other Cardiovascular Diseases,I21
+612,Road Traffic,V99
+613,Diarrhea/Dysentery,A09
+614,Stroke,E10
+615,Other Non-communicable Diseases,ZZ25
+616,Stroke,ZZ23
+617,Stroke,I64
+618,Fires,X09
+619,Stroke,J33
+620,Falls,W00
+621,Renal Failure,N17
+622,Pneumonia,A15
+623,Pneumonia,C34
+624,Pneumonia,J12
+625,Stroke,I64
+626,Diarrhea/Dysentery,A09
+627,Stroke,ZZ23
+628,Diarrhea/Dysentery,A09
+629,Stroke,ZZ23
+630,Stroke,I64
+631,Cirrhosis,E10
+632,Stroke,I64
+633,Breast Cancer,C50
+634,Stroke,I64
+635,Other Cardiovascular Diseases,I21
+636,Stroke,ZZ25
+637,Stroke,I64
+638,Diabetes,ZZ25
+639,Diabetes,N17
+640,Homicide,Y00
+641,Pneumonia,I64
+642,Pneumonia,C50
+643,IHD - Acute Myocardial Infarction,ZZ23
+644,Stroke,I64
+645,Stroke,ZZ23
+646,Stroke,I64
+647,Stroke,I64
+648,Stroke,I64
+649,Renal Failure,ZZ25
+650,Poisonings,A09
+651,Stroke,I64
+652,Other Cardiovascular Diseases,ZZ23
+653,Lung Cancer,C34
+654,Stroke,I64
+655,Falls,W00
+656,Stroke,I64
+657,Homicide,Y00
+658,Stroke,I64
+659,Stroke,I64
+660,Pneumonia,K71
+661,Falls,W00
+662,Pneumonia,ZZ23
+663,Stroke,I64
+664,Diabetes,ZZ27
+665,Homicide,Y00
+666,Stroke,I64
+667,Stroke,I64
+668,Breast Cancer,C50
+669,IHD - Acute Myocardial Infarction,C50
+670,Homicide,Y00
+671,Cirrhosis,ZZ25
+672,Other Cardiovascular Diseases,ZZ23
+673,Stroke,I64
+674,IHD - Acute Myocardial Infarction,A15
+675,Drowning,I64
+676,Drowning,W65
+677,Diabetes,E10
+678,Diabetes,N17
+679,Falls,W00
+680,Fires,X09
+681,Diarrhea/Dysentery,K71
+682,Pneumonia,ZZ25
+683,Pneumonia,H61
+684,Homicide,Y00
+685,IHD - Acute Myocardial Infarction,I21
+686,Colorectal Cancer,G18
+687,Pneumonia,W00
+688,Suicide,X70
+689,Stroke,E10
+690,Other Cardiovascular Diseases,J12
+691,Other Cardiovascular Diseases,J12
+692,Other Cardiovascular Diseases,A15
+693,Pneumonia,J33
+694,Diabetes,I21
+695,Homicide,Y00
+696,Other Cardiovascular Diseases,I21
+697,Renal Failure,ZZ25
+698,Stroke,ZZ23
+699,Pneumonia,J12
+700,Stroke,ZZ23
+701,Stroke,E10
+702,Pneumonia,J12
+703,Stroke,A15
+704,Pneumonia,ZZ23
+705,Pneumonia,J12
+706,Road Traffic,V99
+707,Homicide,Y00
+708,Pneumonia,ZZ25
+709,Pneumonia,A15
+710,Stroke,ZZ23
+711,Falls,W00
+712,Homicide,Y00
+713,Road Traffic,I64
+714,IHD - Acute Myocardial Infarction,J12
+715,Pneumonia,A15
+716,Pneumonia,I64
+717,Stroke,ZZ23
+718,Renal Failure,I21
+719,IHD - Acute Myocardial Infarction,I21
+720,IHD - Acute Myocardial Infarction,I21
+721,IHD - Acute Myocardial Infarction,J12
+722,Homicide,Y00
+723,Breast Cancer,C50
+724,IHD - Acute Myocardial Infarction,I64
+725,IHD - Acute Myocardial Infarction,I21
+726,Cirrhosis,ZZ25
+727,Renal Failure,I21
+728,IHD - Acute Myocardial Infarction,I21
+729,IHD - Acute Myocardial Infarction,I64
+730,Pneumonia,ZZ25
+731,Prostate Cancer,ZZ23
+732,Pneumonia,J12
+733,Breast Cancer,C50
+734,IHD - Acute Myocardial Infarction,I21
+735,Diabetes,I64
+736,IHD - Acute Myocardial Infarction,ZZ25
+737,Other Cardiovascular Diseases,ZZ21
+738,IHD - Acute Myocardial Infarction,I64
+739,Renal Failure,ZZ25
+740,Lung Cancer,C34
+741,IHD - Acute Myocardial Infarction,I21
+742,IHD - Acute Myocardial Infarction,I21
+743,Fires,ZZ27
+744,Stroke,I64
+745,Cirrhosis,K71
+746,IHD - Acute Myocardial Infarction,ZZ25
+747,Other Cardiovascular Diseases,I21
+748,Other Cardiovascular Diseases,E10
+749,Renal Failure,ZZ25
+750,IHD - Acute Myocardial Infarction,I21
+751,Other Cardiovascular Diseases,ZZ23
+752,Other Cardiovascular Diseases,I64
+753,IHD - Acute Myocardial Infarction,I64
+754,IHD - Acute Myocardial Infarction,ZZ23
+755,Colorectal Cancer,G18
+756,Lung Cancer,A15
+757,Cirrhosis,K71
+758,Renal Failure,ZZ25
+759,Prostate Cancer,ZZ25
+760,Diabetes,E10
+761,Renal Failure,ZZ25
+762,Lung Cancer,C34
+763,Colorectal Cancer,G18
+764,Lung Cancer,A16
+765,Breast Cancer,C50
+766,Lung Cancer,ZZ23
+767,Lung Cancer,C34
+768,Diarrhea/Dysentery,E10
+769,Renal Failure,E10
+770,Road Traffic,V99
+771,IHD - Acute Myocardial Infarction,K71
+772,Cirrhosis,A15
+773,Stroke,I64
+774,TB,A15
+775,IHD - Acute Myocardial Infarction,I21
+776,Pneumonia,ZZ23
+777,Stroke,I64
+778,Diarrhea/Dysentery,ZZ21
+779,Stroke,I64
+780,Pneumonia,J12
+781,Stroke,I64
+782,Pneumonia,A15
+783,Renal Failure,E10
+784,Homicide,Y00
+785,Pneumonia,I64
+786,Asthma,ZZ23
+787,Diarrhea/Dysentery,E10
+788,Stroke,I64
+789,Pneumonia,J45
+790,Pneumonia,I21
+791,Falls,ZZ21
+792,Falls,W00
+793,IHD - Acute Myocardial Infarction,ZZ25
+794,Other Cardiovascular Diseases,K71
+795,Falls,W00
+796,IHD - Acute Myocardial Infarction,ZZ23
+797,Stroke,I64
+798,TB,A15
+799,Breast Cancer,C50
+800,Homicide,Y00
+801,IHD - Acute Myocardial Infarction,E10
+802,IHD - Acute Myocardial Infarction,A15
+803,Falls,W00
+804,Asthma,ZZ21
+805,Renal Failure,ZZ23
+806,Renal Failure,ZZ25
+807,Diabetes,E10
+808,IHD - Acute Myocardial Infarction,I21
+809,Stroke,I64
+810,Stroke,I64
+811,Pneumonia,J12
+812,Diabetes,E10
+813,TB,A15
+814,Pneumonia,J12
+815,IHD - Acute Myocardial Infarction,ZZ25
+816,Falls,ZZ27
+817,Diarrhea/Dysentery,A09
+818,Stroke,I64
+819,IHD - Acute Myocardial Infarction,I21
+820,Pneumonia,A15
+821,Stroke,W00
+822,Pneumonia,A16
+823,Pneumonia,G18
+824,IHD - Acute Myocardial Infarction,W00
+825,Asthma,J45
+826,Pneumonia,J12
+827,Pneumonia,A15
+828,Diabetes,E10
+829,Diarrhea/Dysentery,A09
+830,Cirrhosis,ZZ25
+831,Stroke,I64
+832,Esophageal Cancer,C15
+833,Cirrhosis,I64
+834,Falls,ZZ27
+835,Renal Failure,E10
+836,IHD - Acute Myocardial Infarction,ZZ23
+837,Other Cardiovascular Diseases,J12
+838,Diabetes,E10
+839,Pneumonia,I64
+840,Renal Failure,E10
+841,Diarrhea/Dysentery,A15
+842,Suicide,T36
+843,Pneumonia,ZZ25
+844,Other Cardiovascular Diseases,ZZ25
+845,Lung Cancer,C34
+846,Maternal,ZZ25
+847,Homicide,Y00
+848,Lung Cancer,C34
+849,Road Traffic,V99
+850,Other Cardiovascular Diseases,ZZ25
+851,Pneumonia,A15
+852,Stroke,ZZ23
+853,Diabetes,E10
+854,Falls,ZZ27
+855,Falls,ZZ27
+856,Falls,W00
+857,Pneumonia,J12
+858,Stroke,ZZ23
+859,Road Traffic,V99
+860,Stroke,ZZ25
+861,Pneumonia,A15
+862,Falls,W00
+863,Diarrhea/Dysentery,A09
+864,Diabetes,E10
+865,Renal Failure,J12
+866,IHD - Acute Myocardial Infarction,I64
+867,Breast Cancer,C50
+868,IHD - Acute Myocardial Infarction,I21
+869,Renal Failure,N17
+870,IHD - Acute Myocardial Infarction,J12
+871,Stroke,I64
+872,Renal Failure,ZZ25
+873,IHD - Acute Myocardial Infarction,ZZ23
+874,TB,A15
+875,Pneumonia,ZZ25
+876,Lung Cancer,C34
+877,Falls,W00
+878,Stroke,I64
+879,Pneumonia,J12
+880,Breast Cancer,C50
+881,Stroke,J12
+882,Other Cardiovascular Diseases,ZZ25
+883,Falls,I64
+884,Stroke,I64
+885,Road Traffic,V99
+886,Pneumonia,ZZ23
+887,Esophageal Cancer,C15
+888,Cirrhosis,ZZ23
+889,Cirrhosis,ZZ25
+890,Asthma,J45
+891,Renal Failure,ZZ25
+892,IHD - Acute Myocardial Infarction,ZZ23
+893,Breast Cancer,C50
+894,Pneumonia,A15
+895,Lung Cancer,ZZ25
+896,Stomach Cancer,A16
+897,Diarrhea/Dysentery,ZZ25
+898,Other Cardiovascular Diseases,I21
+899,TB,A15
+900,Leukemia/Lymphomas,ZZ25
+901,TB,A15
+902,Renal Failure,ZZ25
+903,Diabetes,E10
+904,Renal Failure,ZZ25
+905,Renal Failure,A09
+906,TB,A15
+907,Leukemia/Lymphomas,D91
+908,Suicide,X09
+909,Drowning,ZZ27
+910,Road Traffic,V99
+911,Renal Failure,N17
+912,Cirrhosis,C34
+913,Renal Failure,ZZ21
+914,Colorectal Cancer,ZZ25
+915,Drowning,W65
+916,Road Traffic,V99
+917,Cirrhosis,K71
+918,Colorectal Cancer,ZZ25
+919,Stroke,ZZ23
+920,Diabetes,E10
+921,Pneumonia,J12
+922,Pneumonia,I64
+923,Road Traffic,V99
+924,Road Traffic,V99
+925,Other Cardiovascular Diseases,A15
+926,Stroke,I64
+927,Pneumonia,ZZ23
+928,Stroke,I64
+929,Stroke,I64
+930,Pneumonia,J33
+931,Stroke,I64
+932,IHD - Acute Myocardial Infarction,I21
+933,Road Traffic,V99
+934,Maternal,O67
+935,IHD - Acute Myocardial Infarction,ZZ23
+936,Homicide,Y00
+937,Road Traffic,V99
+938,Stroke,ZZ23
+939,Stroke,I64
+940,Stroke,I64
+941,Other Cardiovascular Diseases,K71
+942,Stroke,ZZ23
+943,Stroke,I64
+944,Other Cardiovascular Diseases,I21
+945,Diarrhea/Dysentery,A09
+946,Cirrhosis,ZZ25
+947,Diarrhea/Dysentery,K71
+948,Renal Failure,ZZ25
+949,Stroke,ZZ23
+950,Road Traffic,V99
+951,Stroke,I64
+952,Pneumonia,ZZ25
+953,IHD - Acute Myocardial Infarction,I64
+954,Road Traffic,V99
+955,Stroke,I64
+956,Other Cardiovascular Diseases,I21
+957,Renal Failure,ZZ25
+958,Stroke,I64
+959,Stroke,I64
+960,Pneumonia,ZZ25
+961,Homicide,Y00
+962,Other Cardiovascular Diseases,E10
+963,Renal Failure,N17
+964,Renal Failure,ZZ25
+965,Pneumonia,ZZ23
+966,Stroke,ZZ25
+967,Stroke,ZZ23
+968,Road Traffic,V99
+969,Stroke,I64
+970,Stroke,ZZ23
+971,Diabetes,E10
+972,Stroke,ZZ25
+973,Road Traffic,V99
+974,Falls,ZZ27
+975,Stroke,I64
+976,Road Traffic,V99
+977,Road Traffic,V99
+978,Stroke,I64
+979,Suicide,ZZ27
+980,Stroke,ZZ23
+981,Homicide,Y00
+982,Pneumonia,A15
+983,Pneumonia,K71
+984,Other Cardiovascular Diseases,ZZ23
+985,Pneumonia,ZZ21
+986,Stroke,I64
+987,Diabetes,J12
+988,Pneumonia,ZZ25
+989,Pneumonia,A15
+990,TB,A15
+991,Stroke,J12
+992,Renal Failure,ZZ25
+993,Diabetes,E10
+994,Falls,W00
+995,Road Traffic,V99
+996,Road Traffic,N17
+997,TB,I64
+998,Road Traffic,V99
+999,Stroke,I64
+1000,Road Traffic,V99
+1001,COPD,A15
+1002,Falls,X70
+1003,Diabetes,ZZ25
+1004,Renal Failure,ZZ23
+1005,IHD - Acute Myocardial Infarction,I64
+1006,Other Cardiovascular Diseases,ZZ23
+1007,Maternal,B20
+1008,Maternal,ZZ23
+1009,Maternal,O67
+1010,Pneumonia,J12
+1011,Maternal,O67
+1012,Maternal,O67
+1013,Pneumonia,O67
+1014,Maternal,ZZ25
+1015,Maternal,O67
+1016,Maternal,ZZ25
+1017,Pneumonia,J12
+1018,AIDS,B20
+1019,Diarrhea/Dysentery,A09
+1020,Cirrhosis,ZZ25
+1021,Stroke,ZZ21
+1022,AIDS,A15
+1023,AIDS,B20
+1024,Other Injuries,ZZ27
+1025,Pneumonia,B20
+1026,AIDS,B20
+1027,Other Injuries,ZZ27
+1028,Other Injuries,ZZ27
+1029,Homicide,ZZ27
+1030,Falls,A15
+1031,Road Traffic,V99
+1032,Pneumonia,A15
+1033,TB,B20
+1034,Diarrhea/Dysentery,B20
+1035,AIDS,B20
+1036,Maternal,O67
+1037,Stroke,B54
+1038,AIDS,B20
+1039,Homicide,Y00
+1040,AIDS,B20
+1041,Other Injuries,V99
+1042,Other Cardiovascular Diseases,A15
+1043,Other Injuries,A15
+1044,Malaria,J12
+1045,Other Injuries,T36
+1046,AIDS,B20
+1047,Other Cardiovascular Diseases,B20
+1048,TB,I21
+1049,Pneumonia,B20
+1050,TB,J12
+1051,Diabetes,Y00
+1052,Diabetes,E10
+1053,TB,ZZ23
+1054,Suicide,X70
+1055,TB,A15
+1056,Pneumonia,J12
+1057,Diabetes,ZZ30
+1058,TB,B20
+1059,Stroke,B20
+1060,AIDS,B20
+1061,Suicide,ZZ27
+1062,Other Cardiovascular Diseases,B20
+1063,TB,A15
+1064,Stroke,B54
+1065,Diarrhea/Dysentery,B20
+1066,Other Cardiovascular Diseases,B20
+1067,Diabetes,ZZ21
+1068,AIDS,B20
+1069,AIDS,A15
+1070,Diabetes,B54
+1071,Diabetes,A09
+1072,Suicide,X70
+1073,Drowning,W65
+1074,Diarrhea/Dysentery,B20
+1075,AIDS,B20
+1076,TB,B20
+1077,Suicide,ZZ27
+1078,Diarrhea/Dysentery,B20
+1079,Other Cardiovascular Diseases,B20
+1080,Falls,W00
+1081,AIDS,B20
+1082,AIDS,B54
+1083,AIDS,B20
+1084,AIDS,B54
+1085,AIDS,A15
+1086,AIDS,B20
+1087,AIDS,B20
+1088,Cirrhosis,ZZ25
+1089,AIDS,B20
+1090,AIDS,B54
+1091,AIDS,B20
+1092,AIDS,A15
+1093,AIDS,B20
+1094,AIDS,B54
+1095,Pneumonia,B20
+1096,Epilepsy,B54
+1097,AIDS,E10
+1098,Pneumonia,B20
+1099,AIDS,B20
+1100,Asthma,ZZ23
+1101,Diarrhea/Dysentery,B20
+1102,AIDS,B20
+1103,Pneumonia,ZZ23
+1104,AIDS,B20
+1105,Diarrhea/Dysentery,B20
+1106,AIDS,B20
+1107,AIDS,B20
+1108,AIDS,A15
+1109,AIDS,B20
+1110,Pneumonia,J12
+1111,Diarrhea/Dysentery,B54
+1112,AIDS,B20
+1113,AIDS,A15
+1114,AIDS,B20
+1115,Pneumonia,B20
+1116,Pneumonia,A15
+1117,Diarrhea/Dysentery,A09
+1118,Diarrhea/Dysentery,ZZ21
+1119,Asthma,J45
+1120,Diarrhea/Dysentery,B20
+1121,Diarrhea/Dysentery,B20
+1122,Maternal,O67
+1123,Maternal,ZZ30
+1124,Maternal,O67
+1125,Maternal,O67
+1126,Maternal,O67
+1127,Maternal,ZZ25
+1128,Maternal,ZZ25
+1129,Maternal,B54
+1130,Maternal,O67
+1131,Maternal,O67
+1132,Maternal,O67
+1133,Maternal,O67
+1134,Maternal,O67
+1135,Maternal,O67
+1136,Maternal,O67
+1137,Maternal,ZZ25
+1138,Maternal,O67
+1139,Maternal,ZZ23
+1140,Maternal,O67
+1141,Maternal,ZZ25
+1142,Maternal,O67
+1143,Maternal,O67
+1144,Maternal,O67
+1145,AIDS,B20
+1146,Epilepsy,B54
+1147,Pneumonia,B20
+1148,AIDS,B20
+1149,Other Infectious Diseases,ZZ25
+1150,Road Traffic,V99
+1151,Malaria,ZZ30
+1152,Other Infectious Diseases,ZZ25
+1153,Maternal,O67
+1154,AIDS,B20
+1155,TB,B20
+1156,Malaria,B20
+1157,Other Cardiovascular Diseases,B20
+1158,Malaria,ZZ21
+1159,Road Traffic,V99
+1160,Falls,ZZ27
+1161,TB,B20
+1162,Malaria,A15
+1163,Malaria,B20
+1164,Pneumonia,J12
+1165,Malaria,B20
+1166,Other Non-communicable Diseases,ZZ21
+1167,TB,ZZ25
+1168,TB,B20
+1169,Pneumonia,J12
+1170,Malaria,ZZ21
+1171,Malaria,A15
+1172,Poisonings,A09
+1173,Stroke,ZZ21
+1174,Other Non-communicable Diseases,ZZ25
+1175,Fires,ZZ27
+1176,Homicide,ZZ27
+1177,Pneumonia,I64
+1178,Diarrhea/Dysentery,B20
+1179,Malaria,W00
+1180,Other Injuries,Y00
+1181,TB,ZZ25
+1182,Other Non-communicable Diseases,ZZ25
+1183,TB,A15
+1184,Poisonings,ZZ27
+1185,Malaria,B54
+1186,Diarrhea/Dysentery,B54
+1187,TB,B20
+1188,TB,O67
+1189,Pneumonia,B54
+1190,Malaria,ZZ23
+1191,Stroke,ZZ23
+1192,Diabetes,E10
+1193,TB,B20
+1194,Stroke,I21
+1195,Pneumonia,A09
+1196,Suicide,ZZ30
+1197,Other Cardiovascular Diseases,ZZ23
+1198,Stroke,I64
+1199,Other Injuries,W00
+1200,Asthma,J45
+1201,Stroke,E10
+1202,AIDS,B20
+1203,Poisonings,X70
+1204,Drowning,Y00
+1205,TB,J12
+1206,Other Cardiovascular Diseases,B54
+1207,TB,B20
+1208,Falls,W00
+1209,Pneumonia,B20
+1210,Pneumonia,ZZ25
+1211,Pneumonia,B54
+1212,Stroke,B20
+1213,Other Injuries,ZZ27
+1214,TB,A15
+1215,TB,B20
+1216,TB,B20
+1217,TB,W00
+1218,Stroke,ZZ23
+1219,Pneumonia,ZZ23
+1220,Fires,ZZ27
+1221,Other Non-communicable Diseases,E10
+1222,Pneumonia,ZZ25
+1223,Pneumonia,A15
+1224,Pneumonia,B54
+1225,Diarrhea/Dysentery,ZZ23
+1226,TB,A15
+1227,TB,B20
+1228,Pneumonia,J12
+1229,Pneumonia,A15
+1230,TB,A15
+1231,TB,B20
+1232,Pneumonia,J12
+1233,Diarrhea/Dysentery,A09
+1234,Pneumonia,A15
+1235,Fires,ZZ27
+1236,Fires,X09
+1237,Falls,A15
+1238,Maternal,O67
+1239,Fires,V99
+1240,Drowning,W65
+1241,Road Traffic,V99
+1242,Pneumonia,J12
+1243,Pneumonia,ZZ23
+1244,Diarrhea/Dysentery,ZZ23
+1245,Diarrhea/Dysentery,B54
+1246,Renal Failure,ZZ25
+1247,Maternal,O67
+1248,Pneumonia,Y00
+1249,Maternal,I64
+1250,Pneumonia,B20
+1251,Pneumonia,A15
+1252,Asthma,A15
+1253,Pneumonia,J45
+1254,Pneumonia,A15
+1255,Pneumonia,B20
+1256,Pneumonia,J12
+1257,Cirrhosis,A15
+1258,Pneumonia,B54
+1259,Fires,ZZ27
+1260,Pneumonia,J12
+1261,AIDS,B54
+1262,Other Cardiovascular Diseases,ZZ23
+1263,AIDS,B20
+1264,AIDS,J12
+1265,Epilepsy,B54
+1266,Cirrhosis,ZZ25
+1267,AIDS,B54
+1268,AIDS,B20
+1269,AIDS,B20
+1270,AIDS,A15
+1271,AIDS,B20
+1272,AIDS,B20
+1273,AIDS,B20
+1274,Leukemia/Lymphomas,ZZ30
+1275,Stroke,ZZ21
+1276,Colorectal Cancer,ZZ25
+1277,Stroke,E10
+1278,AIDS,ZZ21
+1279,COPD,ZZ23
+1280,Stroke,ZZ23
+1281,Other Cardiovascular Diseases,ZZ23
+1282,Other Cardiovascular Diseases,A15
+1283,AIDS,ZZ25
+1284,Diabetes,ZZ23
+1285,AIDS,ZZ25
+1286,AIDS,B20
+1287,AIDS,ZZ23
+1288,Cervical Cancer,E10
+1289,AIDS,B20
+1290,Lung Cancer,ZZ25
+1291,AIDS,J12
+1292,AIDS,B20
+1293,Pneumonia,ZZ23
+1294,Prostate Cancer,ZZ25
+1295,Diabetes,I21
+1296,Stroke,ZZ23
+1297,Diabetes,E10
+1298,AIDS,A15
+1299,AIDS,A09
+1300,TB,A15
+1301,AIDS,B20
+1302,Other Cardiovascular Diseases,B20
+1303,Other Cardiovascular Diseases,I64
+1304,Other Non-communicable Diseases,ZZ25
+1305,Breast Cancer,C15
+1306,Cervical Cancer,B20
+1307,Cervical Cancer,D05
+1308,Cervical Cancer,D05
+1309,Esophageal Cancer,C15
+1310,Esophageal Cancer,B20
+1311,Colorectal Cancer,J12
+1312,Breast Cancer,C50
+1313,Esophageal Cancer,C15
+1314,Prostate Cancer,ZZ25
+1315,Breast Cancer,C50
+1316,Cervical Cancer,ZZ25
+1317,Cervical Cancer,ZZ25
+1318,Cervical Cancer,B20
+1319,Esophageal Cancer,ZZ25
+1320,Esophageal Cancer,ZZ25
+1321,Leukemia/Lymphomas,C15
+1322,Other Non-communicable Diseases,ZZ25
+1323,Cervical Cancer,D05
+1324,Leukemia/Lymphomas,ZZ25
+1325,Esophageal Cancer,B54
+1326,Breast Cancer,C50
+1327,Cervical Cancer,ZZ25
+1328,Cervical Cancer,ZZ25
+1329,Cervical Cancer,ZZ25
+1330,Other Non-communicable Diseases,ZZ25
+1331,Stomach Cancer,ZZ25
+1332,Cervical Cancer,D05
+1333,Esophageal Cancer,ZZ25
+1334,Cervical Cancer,D05
+1335,AIDS,B20
+1336,Cervical Cancer,D05
+1337,Breast Cancer,C50
+1338,Cervical Cancer,ZZ25
+1339,Breast Cancer,C50
+1340,Lung Cancer,C34
+1341,Breast Cancer,ZZ30
+1342,Breast Cancer,C50
+1343,AIDS,D91
+1344,AIDS,B20
+1345,Other Non-communicable Diseases,ZZ25
+1346,Cervical Cancer,C34
+1347,Cervical Cancer,D05
+1348,Cervical Cancer,ZZ25
+1349,Esophageal Cancer,C15
+1350,Breast Cancer,ZZ25
+1351,Leukemia/Lymphomas,ZZ25
+1352,Leukemia/Lymphomas,ZZ25
+1353,Leukemia/Lymphomas,ZZ25
+1354,Cervical Cancer,ZZ25
+1355,Leukemia/Lymphomas,D91
+1356,Cervical Cancer,ZZ25
+1357,Cervical Cancer,D05
+1358,Breast Cancer,C50
+1359,Leukemia/Lymphomas,ZZ25
+1360,AIDS,ZZ25
+1361,Cervical Cancer,ZZ25
+1362,Breast Cancer,C50
+1363,Cervical Cancer,D05
+1364,Leukemia/Lymphomas,ZZ25
+1365,Cervical Cancer,ZZ25
+1366,Cervical Cancer,ZZ25
+1367,Esophageal Cancer,C15
+1368,Colorectal Cancer,ZZ25
+1369,Leukemia/Lymphomas,ZZ25
+1370,Cervical Cancer,ZZ25
+1371,Cervical Cancer,ZZ25
+1372,Prostate Cancer,ZZ25
+1373,Other Non-communicable Diseases,ZZ25
+1374,Leukemia/Lymphomas,ZZ25
+1375,Breast Cancer,ZZ23
+1376,Esophageal Cancer,B20
+1377,Other Non-communicable Diseases,ZZ25
+1378,Cervical Cancer,ZZ25
+1379,Other Non-communicable Diseases,ZZ25
+1380,Prostate Cancer,ZZ25
+1381,Cervical Cancer,C15
+1382,Breast Cancer,C50
+1383,Leukemia/Lymphomas,C15
+1384,Other Non-communicable Diseases,C15
+1385,Other Non-communicable Diseases,C15
+1386,Leukemia/Lymphomas,ZZ25
+1387,Other Non-communicable Diseases,B20
+1388,Other Non-communicable Diseases,ZZ25
+1389,Other Non-communicable Diseases,ZZ25
+1390,Breast Cancer,C50
+1391,Breast Cancer,C50
+1392,Cervical Cancer,B54
+1393,Cervical Cancer,ZZ30
+1394,Other Non-communicable Diseases,B20
+1395,Breast Cancer,C50
+1396,Other Non-communicable Diseases,C15
+1397,Cervical Cancer,ZZ25
+1398,Cervical Cancer,B20
+1399,Other Non-communicable Diseases,C15
+1400,Cervical Cancer,B20
+1401,Cervical Cancer,D05
+1402,Cervical Cancer,ZZ25
+1403,Leukemia/Lymphomas,J12
+1404,Leukemia/Lymphomas,D91
+1405,Breast Cancer,C50
+1406,Other Non-communicable Diseases,ZZ25
+1407,Cervical Cancer,D05
+1408,Other Non-communicable Diseases,ZZ25
+1409,Prostate Cancer,ZZ25
+1410,Cervical Cancer,D05
+1411,Other Non-communicable Diseases,D05
+1412,Other Non-communicable Diseases,ZZ25
+1413,Stomach Cancer,ZZ25
+1414,Other Non-communicable Diseases,D91
+1415,Breast Cancer,C50
+1416,Leukemia/Lymphomas,A15
+1417,Colorectal Cancer,ZZ25
+1418,Cervical Cancer,D05
+1419,Cervical Cancer,B20
+1420,Other Non-communicable Diseases,ZZ21
+1421,Leukemia/Lymphomas,C15
+1422,Breast Cancer,C50
+1423,Stomach Cancer,ZZ25
+1424,Breast Cancer,C50
+1425,Breast Cancer,C50
+1426,Breast Cancer,B20
+1427,Colorectal Cancer,B20
+1428,Breast Cancer,C50
+1429,Breast Cancer,ZZ25
+1430,Other Non-communicable Diseases,C15
+1431,Other Non-communicable Diseases,ZZ25
+1432,Prostate Cancer,ZZ25
+1433,Breast Cancer,C50
+1434,Esophageal Cancer,D91
+1435,Leukemia/Lymphomas,B20
+1436,Other Non-communicable Diseases,ZZ25
+1437,Other Non-communicable Diseases,ZZ25
+1438,Breast Cancer,C50
+1439,Leukemia/Lymphomas,C50
+1440,Colorectal Cancer,D05
+1441,Colorectal Cancer,ZZ25
+1442,Other Non-communicable Diseases,B20
+1443,Leukemia/Lymphomas,ZZ23
+1444,Prostate Cancer,ZZ25
+1445,Prostate Cancer,ZZ25
+1446,Other Non-communicable Diseases,ZZ25
+1447,Prostate Cancer,ZZ23
+1448,Breast Cancer,C50
+1449,Breast Cancer,ZZ25
+1450,Breast Cancer,D05
+1451,Colorectal Cancer,ZZ25
+1452,Other Non-communicable Diseases,ZZ25
+1453,Other Non-communicable Diseases,D05
+1454,Other Cardiovascular Diseases,ZZ25
+1455,AIDS,B20
+1456,Other Cardiovascular Diseases,ZZ23
+1457,AIDS,ZZ25
+1458,Other Cardiovascular Diseases,A15
+1459,Homicide,B54
+1460,Road Traffic,V99
+1461,Stroke,ZZ25
+1462,Stroke,ZZ23
+1463,AIDS,B20
+1464,Homicide,Y00
+1465,Other Non-communicable Diseases,B54
+1466,AIDS,B20
+1467,Other Infectious Diseases,ZZ21
+1468,Other Cardiovascular Diseases,B54
+1469,AIDS,B20
+1470,Other Cardiovascular Diseases,ZZ23
+1471,Diabetes,E10
+1472,Other Cardiovascular Diseases,A15
+1473,Cervical Cancer,ZZ25
+1474,Falls,W00
+1475,Other Non-communicable Diseases,ZZ25
+1476,AIDS,B20
+1477,Diabetes,ZZ23
+1478,Other Infectious Diseases,A15
+1479,Stroke,ZZ25
+1480,Other Infectious Diseases,ZZ21
+1481,Other Non-communicable Diseases,ZZ25
+1482,Homicide,ZZ27
+1483,Other Infectious Diseases,ZZ25
+1484,Road Traffic,V99
+1485,Other Non-communicable Diseases,A09
+1486,Breast Cancer,C50
+1487,Stroke,E10
+1488,Other Cardiovascular Diseases,A15
+1489,Homicide,Y00
+1490,Stroke,B54
+1491,AIDS,B20
+1492,AIDS,B20
+1493,Other Cardiovascular Diseases,ZZ23
+1494,Maternal,O67
+1495,Cervical Cancer,D05
+1496,Falls,I64
+1497,Other Infectious Diseases,B20
+1498,Other Infectious Diseases,ZZ25
+1499,Cirrhosis,A16
+1500,AIDS,B20
+1501,Other Infectious Diseases,O67
+1502,Leukemia/Lymphomas,ZZ25
+1503,Diabetes,E10
+1504,Other Infectious Diseases,ZZ25
+1505,Other Infectious Diseases,ZZ25
+1506,Other Infectious Diseases,E10
+1507,Maternal,I21
+1508,AIDS,B20
+1509,Esophageal Cancer,C15
+1510,Other Non-communicable Diseases,C15
+1511,Other Non-communicable Diseases,ZZ25
+1512,AIDS,B20
+1513,Homicide,Y00
+1514,Other Non-communicable Diseases,ZZ25
+1515,Stroke,B54
+1516,Other Infectious Diseases,ZZ21
+1517,Stroke,E10
+1518,Other Non-communicable Diseases,D05
+1519,Other Non-communicable Diseases,ZZ25
+1520,AIDS,B20
+1521,Colorectal Cancer,ZZ25
+1522,Stroke,J45
+1523,TB,A15
+1524,Renal Failure,D05
+1525,Other Non-communicable Diseases,B54
+1526,Maternal,ZZ23
+1527,AIDS,O67
+1528,Other Infectious Diseases,ZZ25
+1529,TB,B20
+1530,Stroke,I64
+1531,Renal Failure,B20
+1532,Other Infectious Diseases,ZZ25
+1533,Other Cardiovascular Diseases,I21
+1534,Renal Failure,ZZ23
+1535,AIDS,B20
+1536,Other Cardiovascular Diseases,E10
+1537,Other Non-communicable Diseases,B20
+1538,Other Cardiovascular Diseases,B20
+1539,Other Non-communicable Diseases,B20
+1540,Other Non-communicable Diseases,B54
+1541,Stroke,E10
+1542,TB,B20
+1543,Other Cardiovascular Diseases,J12
+1544,Fires,B20
+1545,Cervical Cancer,D05
+1546,AIDS,A15
+1547,TB,I21
+1548,Maternal,ZZ21
+1549,Cirrhosis,B20
+1550,Stroke,I64
+1551,Cirrhosis,ZZ25
+1552,Cervical Cancer,ZZ25
+1553,Other Cardiovascular Diseases,B20
+1554,Other Non-communicable Diseases,A15
+1555,AIDS,B20
+1556,Cirrhosis,A09
+1557,Other Cardiovascular Diseases,O67
+1558,Other Non-communicable Diseases,A15
+1559,Stroke,I64
+1560,Other Non-communicable Diseases,ZZ25
+1561,TB,ZZ21
+1562,Epilepsy,ZZ25
+1563,Other Non-communicable Diseases,ZZ25
+1564,Diabetes,B54
+1565,Other Non-communicable Diseases,J12
+1566,Lung Cancer,ZZ25
+1567,Pneumonia,B54
+1568,Maternal,O67
+1569,Other Cardiovascular Diseases,B20
+1570,Stroke,ZZ21
+1571,Other Infectious Diseases,ZZ21
+1572,Diabetes,E10
+1573,Stroke,ZZ23
+1574,Other Cardiovascular Diseases,ZZ21
+1575,Other Non-communicable Diseases,ZZ25
+1576,Diabetes,E10
+1577,Maternal,O67
+1578,Other Cardiovascular Diseases,ZZ23
+1579,Other Non-communicable Diseases,B20
+1580,Maternal,O67
+1581,Cirrhosis,ZZ25
+1582,TB,A15
+1583,Malaria,B54
+1584,Other Cardiovascular Diseases,B54
+1585,Other Cardiovascular Diseases,J12
+1586,Other Cardiovascular Diseases,B20
+1587,Stroke,I64
+1588,Other Non-communicable Diseases,ZZ25
+1589,Colorectal Cancer,ZZ25
+1590,Maternal,O67
+1591,Colorectal Cancer,B20
+1592,Pneumonia,ZZ25
+1593,Prostate Cancer,ZZ25
+1594,Other Non-communicable Diseases,ZZ25
+1595,TB,B20
+1596,Stroke,I64
+1597,Other Cardiovascular Diseases,ZZ23
+1598,AIDS,B20
+1599,Other Cardiovascular Diseases,ZZ23
+1600,Stomach Cancer,ZZ25
+1601,Prostate Cancer,H61
+1602,Diabetes,E10
+1603,Prostate Cancer,ZZ25
+1604,Maternal,O67
+1605,Maternal,ZZ25
+1606,Other Cardiovascular Diseases,ZZ23
+1607,Diarrhea/Dysentery,A09
+1608,Other Non-communicable Diseases,K71
+1609,AIDS,B20
+1610,Diabetes,E10
+1611,Cirrhosis,I21
+1612,Other Infectious Diseases,ZZ21
+1613,Pneumonia,E10
+1614,Renal Failure,I21
+1615,Other Infectious Diseases,A15
+1616,Pneumonia,I64
+1617,Breast Cancer,C50
+1618,AIDS,B20
+1619,Pneumonia,E10
+1620,Stroke,I64
+1621,Leukemia/Lymphomas,D91
+1622,Leukemia/Lymphomas,ZZ25
+1623,Stroke,ZZ23
+1624,Falls,W00
+1625,Falls,W00
+1626,Pneumonia,E10
+1627,Pneumonia,W00
+1628,Falls,W00
+1629,Pneumonia,J12
+1630,AIDS,B20
+1631,Breast Cancer,C50
+1632,Cirrhosis,K71
+1633,Pneumonia,E10
+1634,IHD - Acute Myocardial Infarction,E10
+1635,Diabetes,D91
+1636,Other Cardiovascular Diseases,I21
+1637,Other Non-communicable Diseases,ZZ25
+1638,Other Non-communicable Diseases,ZZ25
+1639,Other Cardiovascular Diseases,ZZ25
+1640,Diabetes,E10
+1641,Falls,W00
+1642,Other Non-communicable Diseases,W00
+1643,Pneumonia,J12
+1644,Cirrhosis,E10
+1645,Other Injuries,ZZ23
+1646,Renal Failure,N17
+1647,Cirrhosis,ZZ25
+1648,Cirrhosis,ZZ25
+1649,Other Non-communicable Diseases,ZZ23
+1650,Stroke,I64
+1651,Suicide,ZZ23
+1652,Suicide,ZZ27
+1653,Stroke,I21
+1654,Cirrhosis,K71
+1655,Diarrhea/Dysentery,ZZ23
+1656,Cirrhosis,K71
+1657,COPD,J12
+1658,Diabetes,E10
+1659,Stroke,ZZ23
+1660,Cirrhosis,ZZ23
+1661,Stroke,I64
+1662,Prostate Cancer,A16
+1663,Stroke,E10
+1664,Homicide,ZZ27
+1665,Stroke,I21
+1666,Diabetes,E10
+1667,COPD,J12
+1668,Other Non-communicable Diseases,E10
+1669,AIDS,B20
+1670,Cirrhosis,ZZ25
+1671,Leukemia/Lymphomas,D91
+1672,Stomach Cancer,ZZ25
+1673,Pneumonia,E10
+1674,Breast Cancer,C50
+1675,Stroke,ZZ23
+1676,Other Non-communicable Diseases,ZZ25
+1677,Maternal,B20
+1678,Pneumonia,J12
+1679,Other Non-communicable Diseases,C34
+1680,Renal Failure,ZZ23
+1681,Renal Failure,E10
+1682,Other Non-communicable Diseases,E10
+1683,Colorectal Cancer,G18
+1684,COPD,J33
+1685,Other Infectious Diseases,J12
+1686,Other Cardiovascular Diseases,I21
+1687,Other Cardiovascular Diseases,I21
+1688,Pneumonia,J12
+1689,IHD - Acute Myocardial Infarction,ZZ23
+1690,Colorectal Cancer,J12
+1691,Renal Failure,I21
+1692,Breast Cancer,ZZ21
+1693,Lung Cancer,J33
+1694,Prostate Cancer,ZZ25
+1695,AIDS,B20
+1696,Leukemia/Lymphomas,D91
+1697,Diabetes,E10
+1698,Stroke,ZZ23
+1699,Other Non-communicable Diseases,E10
+1700,IHD - Acute Myocardial Infarction,I21
+1701,Prostate Cancer,H61
+1702,Breast Cancer,ZZ25
+1703,AIDS,B20
+1704,Breast Cancer,B20
+1705,Other Non-communicable Diseases,ZZ25
+1706,Stomach Cancer,C50
+1707,Cirrhosis,ZZ25
+1708,Other Non-communicable Diseases,ZZ25
+1709,Lung Cancer,C34
+1710,Pneumonia,I21
+1711,Other Non-communicable Diseases,ZZ23
+1712,Diabetes,K71
+1713,AIDS,ZZ25
+1714,TB,A15
+1715,Diabetes,E10
+1716,Pneumonia,J12
+1717,Cirrhosis,K71
+1718,Maternal,X09
+1719,Pneumonia,J12
+1720,Diabetes,N17
+1721,Pneumonia,B20
+1722,Renal Failure,K71
+1723,Cirrhosis,ZZ21
+1724,Road Traffic,K71
+1725,Other Non-communicable Diseases,E10
+1726,AIDS,B20
+1727,Breast Cancer,I64
+1728,Poisonings,I64
+1729,Maternal,ZZ23
+1730,Pneumonia,E10
+1731,AIDS,B20
+1732,IHD - Acute Myocardial Infarction,E10
+1733,Stroke,ZZ23
+1734,Maternal,O67
+1735,COPD,I64
+1736,Other Non-communicable Diseases,J12
+1737,Renal Failure,N17
+1738,IHD - Acute Myocardial Infarction,I21
+1739,Homicide,Y00
+1740,IHD - Acute Myocardial Infarction,E10
+1741,Other Cardiovascular Diseases,ZZ23
+1742,Other Infectious Diseases,ZZ21
+1743,Cirrhosis,K71
+1744,Leukemia/Lymphomas,ZZ25
+1745,Other Cardiovascular Diseases,I21
+1746,Maternal,O67
+1747,Leukemia/Lymphomas,D91
+1748,Maternal,O67
+1749,Maternal,O67
+1750,Maternal,O67
+1751,Maternal,O67
+1752,Maternal,I64
+1753,Maternal,D91
+1754,Other Cardiovascular Diseases,I64
+1755,Lung Cancer,E10
+1756,Lung Cancer,C34
+1757,Lung Cancer,C34
+1758,Stomach Cancer,K71
+1759,TB,E10
+1760,COPD,E10
+1761,TB,A15
+1762,AIDS,B20
+1763,AIDS,J12
+1764,Other Non-communicable Diseases,ZZ25
+1765,COPD,E10
+1766,COPD,ZZ25
+1767,Other Infectious Diseases,E10
+1768,COPD,I21
+1769,Stroke,ZZ25
+1770,Other Infectious Diseases,ZZ25
+1771,Other Non-communicable Diseases,ZZ25
+1772,AIDS,B20
+1773,Other Non-communicable Diseases,ZZ25
+1774,Stroke,E10
+1775,Other Non-communicable Diseases,E10
+1776,Diarrhea/Dysentery,J12
+1777,IHD - Acute Myocardial Infarction,I21
+1778,Other Non-communicable Diseases,ZZ25
+1779,IHD - Acute Myocardial Infarction,I21
+1780,Stomach Cancer,ZZ25
+1781,Breast Cancer,ZZ25
+1782,Other Cardiovascular Diseases,I21
+1783,Prostate Cancer,ZZ25
+1784,Other Non-communicable Diseases,ZZ25
+1785,Other Cardiovascular Diseases,ZZ23
+1786,Other Cardiovascular Diseases,I21
+1787,Other Non-communicable Diseases,K71
+1788,Leukemia/Lymphomas,E10
+1789,Stomach Cancer,ZZ25
+1790,Other Non-communicable Diseases,ZZ25
+1791,Other Non-communicable Diseases,ZZ25
+1792,Stomach Cancer,ZZ25
+1793,Leukemia/Lymphomas,ZZ25
+1794,COPD,ZZ23
+1795,Leukemia/Lymphomas,ZZ25
+1796,Leukemia/Lymphomas,D91
+1797,Colorectal Cancer,ZZ23
+1798,Breast Cancer,ZZ25
+1799,AIDS,J33
+1800,Colorectal Cancer,A16
+1801,Prostate Cancer,ZZ25
+1802,AIDS,B20
+1803,Lung Cancer,ZZ25
+1804,Diabetes,E10
+1805,Lung Cancer,J33
+1806,Other Cardiovascular Diseases,E10
+1807,TB,J12
+1808,Other Cardiovascular Diseases,K71
+1809,Stroke,I64
+1810,Diabetes,ZZ23
+1811,Pneumonia,ZZ25
+1812,Other Cardiovascular Diseases,ZZ23
+1813,Pneumonia,J12
+1814,Diabetes,I64
+1815,Other Infectious Diseases,J12
+1816,Diabetes,ZZ25
+1817,Other Non-communicable Diseases,E10
+1818,Cirrhosis,I64
+1819,Cirrhosis,K71
+1820,Stroke,I64
+1821,Other Non-communicable Diseases,ZZ25
+1822,Falls,ZZ27
+1823,Other Cardiovascular Diseases,C34
+1824,Other Non-communicable Diseases,ZZ25
+1825,Stroke,ZZ23
+1826,Stroke,I64
+1827,Lung Cancer,G18
+1828,Stroke,I64
+1829,Renal Failure,ZZ23
+1830,Renal Failure,N17
+1831,Falls,ZZ23
+1832,Stroke,ZZ23
+1833,Pneumonia,I21
+1834,Diabetes,E10
+1835,Diarrhea/Dysentery,N17
+1836,Other Non-communicable Diseases,ZZ25
+1837,COPD,I21
+1838,Other Non-communicable Diseases,ZZ23
+1839,Stroke,ZZ23
+1840,AIDS,B20
+1841,Leukemia/Lymphomas,E10
+1842,Renal Failure,ZZ25
+1843,Cirrhosis,K71
+1844,Cirrhosis,K71
+1845,Leukemia/Lymphomas,C34
+1846,Stroke,I21
+1847,TB,E10
+1848,Stomach Cancer,ZZ25
+1849,Cirrhosis,K71
+1850,Pneumonia,I21
+1851,Other Non-communicable Diseases,ZZ23
+1852,Diabetes,E10
+1853,Pneumonia,ZZ25
+1854,AIDS,B20
+1855,Diabetes,ZZ25
+1856,Stroke,ZZ23
+1857,Other Non-communicable Diseases,ZZ25
+1858,Stroke,W00
+1859,Other Non-communicable Diseases,K71
+1860,Other Cardiovascular Diseases,E10
+1861,Diabetes,ZZ25
+1862,Other Non-communicable Diseases,I21
+1863,AIDS,B20
+1864,Road Traffic,ZZ21
+1865,Stroke,ZZ23
+1866,Cirrhosis,K71
+1867,Other Non-communicable Diseases,I64
+1868,Renal Failure,ZZ25
+1869,Renal Failure,I21
+1870,Renal Failure,E10
+1871,Stroke,ZZ23
+1872,Cirrhosis,ZZ25
+1873,Epilepsy,J12
+1874,Stroke,I64
+1875,Stomach Cancer,ZZ25
+1876,Lung Cancer,K71
+1877,Cirrhosis,K71
+1878,Diabetes,E10
+1879,Cirrhosis,G18
+1880,Stroke,I64
+1881,Leukemia/Lymphomas,G18
+1882,AIDS,B20
+1883,IHD - Acute Myocardial Infarction,E10
+1884,Diabetes,ZZ25
+1885,Stroke,ZZ21
+1886,COPD,E10
+1887,Diabetes,ZZ23
+1888,Other Non-communicable Diseases,ZZ21
+1889,Renal Failure,K71
+1890,Other Non-communicable Diseases,E10
+1891,IHD - Acute Myocardial Infarction,I21
+1892,Cirrhosis,K71
+1893,Diabetes,I64
+1894,IHD - Acute Myocardial Infarction,E10
+1895,Cirrhosis,K71
+1896,Stroke,E10
+1897,Other Non-communicable Diseases,ZZ25
+1898,Pneumonia,I64
+1899,Renal Failure,G18
+1900,COPD,J33
+1901,Diabetes,E10
+1902,Cirrhosis,I21
+1903,Prostate Cancer,E10
+1904,Renal Failure,E10
+1905,Other Infectious Diseases,K71
+1906,Renal Failure,ZZ25
+1907,COPD,J33
+1908,Other Non-communicable Diseases,ZZ25
+1909,Other Non-communicable Diseases,ZZ25
+1910,Diarrhea/Dysentery,G18
+1911,Cirrhosis,K71
+1912,Prostate Cancer,ZZ25
+1913,Stroke,ZZ23
+1914,Other Non-communicable Diseases,I21
+1915,Homicide,Y00
+1916,Cirrhosis,ZZ23
+1917,Renal Failure,N17
+1918,Cirrhosis,K71
+1919,Other Non-communicable Diseases,G18
+1920,Cirrhosis,K71
+1921,Falls,I64
+1922,Renal Failure,ZZ25
+1923,Pneumonia,J12
+1924,Pneumonia,ZZ23
+1925,IHD - Acute Myocardial Infarction,J12
+1926,Pneumonia,ZZ23
+1927,IHD - Acute Myocardial Infarction,E10
+1928,Other Infectious Diseases,J12
+1929,Stroke,ZZ23
+1930,AIDS,B20
+1931,Road Traffic,V99
+1932,Pneumonia,J12
+1933,IHD - Acute Myocardial Infarction,ZZ23
+1934,Other Cardiovascular Diseases,E10
+1935,Cirrhosis,K71
+1936,Stroke,I64
+1937,Pneumonia,E10
+1938,Stroke,E10
+1939,Pneumonia,I21
+1940,Stroke,ZZ23
+1941,Pneumonia,ZZ23
+1942,COPD,J33
+1943,Falls,E10
+1944,Stroke,E10
+1945,Pneumonia,B20
+1946,Cirrhosis,K71
+1947,Road Traffic,V99
+1948,Cirrhosis,K71
+1949,Cirrhosis,K71
+1950,Stroke,I64
+1951,Diabetes,E10
+1952,Falls,I64
+1953,Cirrhosis,I64
+1954,Homicide,ZZ21
+1955,Other Non-communicable Diseases,E10
+1956,AIDS,B20
+1957,AIDS,B20
+1958,Stomach Cancer,J33
+1959,Other Non-communicable Diseases,C34
+1960,COPD,C50
+1961,AIDS,B20
+1962,Cirrhosis,E10
+1963,Renal Failure,K71
+1964,Lung Cancer,ZZ25
+1965,Lung Cancer,I21
+1966,Other Infectious Diseases,ZZ25
+1967,Lung Cancer,ZZ23
+1968,Diabetes,E10
+1969,Diabetes,E10
+1970,Diarrhea/Dysentery,A09
+1971,Road Traffic,V99
+1972,Maternal,O67
+1973,Maternal,ZZ30
+1974,Diarrhea/Dysentery,B20
+1975,Pneumonia,ZZ25
+1976,Diabetes,E10
+1977,TB,A15
+1978,Pneumonia,J45
+1979,Falls,W00
+1980,Maternal,ZZ25
+1981,Pneumonia,J12
+1982,Pneumonia,B54
+1983,Diabetes,E10
+1984,Maternal,O67
+1985,Diarrhea/Dysentery,ZZ25
+1986,Maternal,O67
+1987,Diarrhea/Dysentery,B54
+1988,Maternal,ZZ23
+1989,Falls,ZZ25
+1990,Drowning,W65
+1991,Drowning,W65
+1992,Drowning,W65
+1993,Drowning,W65
+1994,Maternal,O67
+1995,Drowning,W65
+1996,Drowning,W65
+1997,Drowning,W65
+1998,Drowning,W65
+1999,Falls,W00
+2000,Drowning,W65
+2001,Drowning,W65
+2002,Fires,W65
+2003,Fires,W65
+2004,Fires,X09
+2005,Drowning,W65
+2006,Drowning,W65
+2007,Homicide,W65
+2008,Diabetes,I64
+2009,Diarrhea/Dysentery,B54
+2010,Pneumonia,ZZ30
+2011,Falls,I64
+2012,Diabetes,ZZ21
+2013,Maternal,ZZ30
+2014,Maternal,O67
+2015,Road Traffic,V99
+2016,Diabetes,E10
+2017,Diabetes,E10
+2018,Maternal,O67
+2019,Pneumonia,A15
+2020,Maternal,I64
+2021,Pneumonia,ZZ25
+2022,Pneumonia,T36
+2023,Pneumonia,A15
+2024,Diabetes,E10
+2025,Maternal,O67
+2026,Diabetes,E10
+2027,Diarrhea/Dysentery,A09
+2028,Falls,W00
+2029,Maternal,O67
+2030,Diabetes,ZZ25
+2031,Other Cardiovascular Diseases,J12
+2032,Fires,ZZ27
+2033,IHD - Acute Myocardial Infarction,I21
+2034,Drowning,ZZ27
+2035,Other Cardiovascular Diseases,ZZ23
+2036,Maternal,O67
+2037,IHD - Acute Myocardial Infarction,I21
+2038,Other Non-communicable Diseases,ZZ21
+2039,Suicide,ZZ27
+2040,IHD - Acute Myocardial Infarction,I21
+2041,Maternal,ZZ30
+2042,IHD - Acute Myocardial Infarction,I21
+2043,Other Non-communicable Diseases,A15
+2044,IHD - Acute Myocardial Infarction,I21
+2045,Maternal,O67
+2046,Renal Failure,I64
+2047,Maternal,O67
+2048,Maternal,O67
+2049,Other Infectious Diseases,B54
+2050,Other Infectious Diseases,ZZ21
+2051,Falls,W00
+2052,Poisonings,ZZ23
+2053,Cirrhosis,I21
+2054,IHD - Acute Myocardial Infarction,I21
+2055,Other Infectious Diseases,ZZ21
+2056,COPD,J45
+2057,Renal Failure,ZZ25
+2058,Diabetes,ZZ25
+2059,Renal Failure,I21
+2060,Other Infectious Diseases,ZZ21
+2061,Malaria,ZZ25
+2062,TB,W00
+2063,Diabetes,E10
+2064,Renal Failure,ZZ25
+2065,Pneumonia,I64
+2066,Renal Failure,ZZ25
+2067,Other Cardiovascular Diseases,J33
+2068,IHD - Acute Myocardial Infarction,I21
+2069,Pneumonia,ZZ21
+2070,Cirrhosis,K71
+2071,Maternal,O67
+2072,Diabetes,I21
+2073,Malaria,B54
+2074,Cirrhosis,K71
+2075,Falls,W65
+2076,IHD - Acute Myocardial Infarction,I21
+2077,Diabetes,E10
+2078,Bite of Venomous Animal,ZZ27
+2079,Pneumonia,A15
+2080,IHD - Acute Myocardial Infarction,I21
+2081,Renal Failure,I21
+2082,IHD - Acute Myocardial Infarction,I21
+2083,Cirrhosis,ZZ25
+2084,Maternal,O67
+2085,Other Cardiovascular Diseases,ZZ25
+2086,Maternal,O67
+2087,Diabetes,K71
+2088,COPD,J33
+2089,Other Cardiovascular Diseases,ZZ23
+2090,Other Non-communicable Diseases,ZZ25
+2091,Pneumonia,J12
+2092,Bite of Venomous Animal,ZZ27
+2093,IHD - Acute Myocardial Infarction,I21
+2094,Other Cardiovascular Diseases,N17
+2095,IHD - Acute Myocardial Infarction,I21
+2096,IHD - Acute Myocardial Infarction,I21
+2097,Other Cardiovascular Diseases,ZZ23
+2098,AIDS,B20
+2099,Other Infectious Diseases,ZZ21
+2100,IHD - Acute Myocardial Infarction,I21
+2101,Renal Failure,A09
+2102,IHD - Acute Myocardial Infarction,I21
+2103,IHD - Acute Myocardial Infarction,I21
+2104,IHD - Acute Myocardial Infarction,I21
+2105,Maternal,O67
+2106,Other Non-communicable Diseases,ZZ25
+2107,Renal Failure,ZZ21
+2108,IHD - Acute Myocardial Infarction,I21
+2109,Renal Failure,A09
+2110,Other Injuries,ZZ27
+2111,Road Traffic,V99
+2112,Road Traffic,W00
+2113,Road Traffic,V99
+2114,Road Traffic,V99
+2115,Fires,ZZ27
+2116,Road Traffic,ZZ27
+2117,Homicide,Y00
+2118,Pneumonia,W00
+2119,Other Injuries,ZZ27
+2120,IHD - Acute Myocardial Infarction,ZZ23
+2121,COPD,J33
+2122,Homicide,ZZ27
+2123,Drowning,ZZ27
+2124,Drowning,W65
+2125,Drowning,W65
+2126,Pneumonia,I21
+2127,Drowning,ZZ27
+2128,Drowning,ZZ27
+2129,Drowning,W65
+2130,Road Traffic,V99
+2131,Road Traffic,V99
+2132,Homicide,ZZ27
+2133,IHD - Acute Myocardial Infarction,I21
+2134,Other Injuries,ZZ27
+2135,Road Traffic,V99
+2136,Other Injuries,ZZ27
+2137,Stroke,I64
+2138,Other Injuries,ZZ27
+2139,TB,A15
+2140,Other Injuries,ZZ27
+2141,Fires,ZZ27
+2142,Pneumonia,J12
+2143,Other Injuries,ZZ27
+2144,Renal Failure,J45
+2145,Cirrhosis,B54
+2146,Renal Failure,ZZ21
+2147,COPD,J33
+2148,Cirrhosis,I64
+2149,Other Non-communicable Diseases,I64
+2150,Other Injuries,ZZ27
+2151,Other Injuries,ZZ27
+2152,Other Injuries,ZZ27
+2153,Other Infectious Diseases,D91
+2154,IHD - Acute Myocardial Infarction,I21
+2155,Diabetes,E10
+2156,TB,A15
+2157,Other Cardiovascular Diseases,ZZ25
+2158,Other Injuries,ZZ27
+2159,Poisonings,T36
+2160,COPD,ZZ23
+2161,Other Cardiovascular Diseases,ZZ23
+2162,Fires,ZZ27
+2163,Bite of Venomous Animal,ZZ27
+2164,Diarrhea/Dysentery,ZZ25
+2165,Poisonings,ZZ27
+2166,Diarrhea/Dysentery,A09
+2167,Cirrhosis,ZZ25
+2168,Renal Failure,B54
+2169,Epilepsy,ZZ25
+2170,Renal Failure,D91
+2171,Malaria,B54
+2172,COPD,J45
+2173,Cirrhosis,A15
+2174,Maternal,O67
+2175,COPD,J33
+2176,COPD,I64
+2177,COPD,J45
+2178,COPD,I21
+2179,Malaria,J45
+2180,Other Infectious Diseases,ZZ21
+2181,Renal Failure,K71
+2182,Cirrhosis,K71
+2183,Bite of Venomous Animal,ZZ21
+2184,Suicide,Y00
+2185,COPD,J33
+2186,Cirrhosis,E10
+2187,Diarrhea/Dysentery,ZZ21
+2188,Other Non-communicable Diseases,ZZ25
+2189,AIDS,B20
+2190,Maternal,O67
+2191,Renal Failure,A09
+2192,COPD,J33
+2193,Breast Cancer,C50
+2194,TB,A15
+2195,COPD,I64
+2196,Drowning,ZZ25
+2197,Malaria,ZZ21
+2198,COPD,J33
+2199,COPD,J33
+2200,Malaria,ZZ25
+2201,Other Cardiovascular Diseases,J33
+2202,Renal Failure,ZZ25
+2203,Cirrhosis,K71
+2204,Maternal,O67
+2205,Cirrhosis,B54
+2206,Renal Failure,B54
+2207,Maternal,O67
+2208,Other Infectious Diseases,ZZ21
+2209,Other Cardiovascular Diseases,J45
+2210,Other Cardiovascular Diseases,ZZ25
+2211,Diarrhea/Dysentery,J12
+2212,Other Cardiovascular Diseases,ZZ23
+2213,Other Cardiovascular Diseases,ZZ23
+2214,COPD,I64
+2215,TB,C34
+2216,Other Non-communicable Diseases,I21
+2217,COPD,ZZ25
+2218,Fires,X09
+2219,Diarrhea/Dysentery,ZZ23
+2220,Maternal,O67
+2221,Renal Failure,A09
+2222,AIDS,B20
+2223,COPD,J33
+2224,Renal Failure,ZZ25
+2225,Maternal,A09
+2226,Other Non-communicable Diseases,ZZ25
+2227,Other Cardiovascular Diseases,E10
+2228,Bite of Venomous Animal,ZZ27
+2229,Other Non-communicable Diseases,B54
+2230,Renal Failure,J12
+2231,Other Cardiovascular Diseases,ZZ25
+2232,Renal Failure,A09
+2233,Renal Failure,ZZ25
+2234,Stroke,A09
+2235,Fires,X09
+2236,Diabetes,I21
+2237,Cirrhosis,ZZ27
+2238,AIDS,B20
+2239,Lung Cancer,C34
+2240,Bite of Venomous Animal,X20
+2241,Malaria,ZZ21
+2242,COPD,J45
+2243,Cirrhosis,K71
+2244,Renal Failure,K71
+2245,Other Non-communicable Diseases,E10
+2246,Other Cardiovascular Diseases,ZZ21
+2247,Other Non-communicable Diseases,ZZ23
+2248,COPD,A15
+2249,Diarrhea/Dysentery,ZZ21
+2250,Bite of Venomous Animal,ZZ27
+2251,Fires,X09
+2252,Other Cardiovascular Diseases,I64
+2253,Road Traffic,V99
+2254,Renal Failure,ZZ25
+2255,Stroke,I64
+2256,Cirrhosis,ZZ25
+2257,Diarrhea/Dysentery,J45
+2258,Falls,W00
+2259,Renal Failure,ZZ25
+2260,Bite of Venomous Animal,ZZ27
+2261,Bite of Venomous Animal,X20
+2262,Diarrhea/Dysentery,ZZ25
+2263,Diarrhea/Dysentery,A09
+2264,Homicide,Y00
+2265,Malaria,B54
+2266,Other Cardiovascular Diseases,ZZ23
+2267,Bite of Venomous Animal,X20
+2268,Diarrhea/Dysentery,A09
+2269,Other Infectious Diseases,ZZ21
+2270,Falls,W00
+2271,Lung Cancer,W00
+2272,AIDS,B20
+2273,Falls,ZZ27
+2274,AIDS,B20
+2275,Fires,ZZ27
+2276,Pneumonia,J12
+2277,Fires,ZZ27
+2278,Cirrhosis,K71
+2279,Falls,ZZ27
+2280,Maternal,O67
+2281,AIDS,B20
+2282,Other Infectious Diseases,ZZ25
+2283,Maternal,O67
+2284,Renal Failure,E10
+2285,Diarrhea/Dysentery,A09
+2286,Cirrhosis,ZZ30
+2287,Road Traffic,X70
+2288,COPD,A09
+2289,Maternal,O67
+2290,Stroke,J12
+2291,AIDS,B20
+2292,Falls,ZZ27
+2293,AIDS,I21
+2294,Bite of Venomous Animal,ZZ27
+2295,Diarrhea/Dysentery,J33
+2296,Breast Cancer,C50
+2297,COPD,ZZ25
+2298,Malaria,B54
+2299,Other Cardiovascular Diseases,ZZ25
+2300,Cirrhosis,K71
+2301,Stroke,ZZ23
+2302,COPD,J33
+2303,COPD,J33
+2304,Falls,ZZ27
+2305,COPD,ZZ21
+2306,Other Non-communicable Diseases,ZZ25
+2307,AIDS,B20
+2308,Breast Cancer,A09
+2309,Diarrhea/Dysentery,ZZ21
+2310,AIDS,B20
+2311,Maternal,O67
+2312,Cirrhosis,T36
+2313,Other Infectious Diseases,ZZ25
+2314,Diarrhea/Dysentery,A15
+2315,Falls,W00
+2316,Falls,ZZ27
+2317,Renal Failure,ZZ25
+2318,Maternal,ZZ25
+2319,IHD - Acute Myocardial Infarction,I21
+2320,Poisonings,ZZ27
+2321,COPD,ZZ25
+2322,Maternal,O67
+2323,Maternal,O67
+2324,Other Infectious Diseases,ZZ21
+2325,Homicide,Y00
+2326,TB,A15
+2327,Pneumonia,I64
+2328,Falls,W00
+2329,Drowning,W65
+2330,Other Cardiovascular Diseases,ZZ23
+2331,Falls,W00
+2332,Other Cardiovascular Diseases,J33
+2333,COPD,J33
+2334,Pneumonia,J12
+2335,Diarrhea/Dysentery,ZZ30
+2336,Diarrhea/Dysentery,A09
+2337,Other Infectious Diseases,ZZ21
+2338,Diarrhea/Dysentery,A09
+2339,Poisonings,Y00
+2340,Falls,ZZ27
+2341,Maternal,O67
+2342,Pneumonia,B54
+2343,Drowning,W65
+2344,Stroke,E10
+2345,Other Infectious Diseases,O67
+2346,Malaria,ZZ25
+2347,Malaria,B54
+2348,COPD,J33
+2349,TB,K71
+2350,COPD,J33
+2351,TB,I64
+2352,Maternal,O67
+2353,Maternal,O67
+2354,Maternal,I64
+2355,Epilepsy,J33
+2356,Fires,ZZ27
+2357,Pneumonia,J12
+2358,Maternal,O67
+2359,Poisonings,ZZ27
+2360,COPD,J33
+2361,Maternal,ZZ25
+2362,Maternal,ZZ27
+2363,Maternal,N17
+2364,Stroke,I21
+2365,Renal Failure,ZZ25
+2366,Renal Failure,E10
+2367,COPD,J33
+2368,COPD,J33
+2369,Maternal,O67
+2370,Maternal,ZZ23
+2371,Other Cardiovascular Diseases,J12
+2372,Other Cardiovascular Diseases,ZZ23
+2373,Other Infectious Diseases,ZZ25
+2374,COPD,J33
+2375,COPD,J45
+2376,COPD,J33
+2377,Maternal,O67
+2378,Other Infectious Diseases,O67
+2379,Other Cardiovascular Diseases,I21
+2380,Cirrhosis,ZZ21
+2381,Cirrhosis,ZZ21
+2382,Pneumonia,K71
+2383,Other Infectious Diseases,ZZ25
+2384,Malaria,ZZ21
+2385,Pneumonia,I21
+2386,Other Infectious Diseases,ZZ21
+2387,Diabetes,B20
+2388,Poisonings,J12
+2389,IHD - Acute Myocardial Infarction,I21
+2390,Other Infectious Diseases,B54
+2391,Maternal,O67
+2392,Other Infectious Diseases,B54
+2393,Other Infectious Diseases,E10
+2394,Other Infectious Diseases,ZZ21
+2395,Stroke,I64
+2396,Maternal,O67
+2397,Stroke,I64
+2398,Pneumonia,B20
+2399,Maternal,O67
+2400,IHD - Acute Myocardial Infarction,I21
+2401,COPD,E10
+2402,Suicide,ZZ27
+2403,Suicide,T36
+2404,Pneumonia,E10
+2405,COPD,I64
+2406,Malaria,O67
+2407,Pneumonia,ZZ21
+2408,IHD - Acute Myocardial Infarction,I21
+2409,Road Traffic,V99
+2410,Maternal,O67
+2411,Stroke,I64
+2412,Road Traffic,V99
+2413,Road Traffic,V99
+2414,Maternal,O67
+2415,Poisonings,I21
+2416,Pneumonia,I21
+2417,Maternal,O67
+2418,Drowning,ZZ27
+2419,Suicide,X70
+2420,Stroke,I21
+2421,Stroke,I64
+2422,Other Infectious Diseases,ZZ25
+2423,Poisonings,ZZ25
+2424,Other Non-communicable Diseases,B54
+2425,Pneumonia,J33
+2426,TB,A15
+2427,Renal Failure,A09
+2428,Stroke,ZZ23
+2429,Other Non-communicable Diseases,I21
+2430,Malaria,B54
+2431,Stroke,I64
+2432,IHD - Acute Myocardial Infarction,I21
+2433,Pneumonia,ZZ27
+2434,Maternal,O67
+2435,Malaria,I21
+2436,Diarrhea/Dysentery,I64
+2437,Other Infectious Diseases,ZZ21
+2438,Stroke,I64
+2439,AIDS,B20
+2440,Renal Failure,A09
+2441,COPD,J33
+2442,Other Infectious Diseases,I64
+2443,IHD - Acute Myocardial Infarction,I21
+2444,Pneumonia,ZZ25
+2445,Stroke,E10
+2446,Stroke,ZZ23
+2447,Maternal,B54
+2448,Pneumonia,J33
+2449,Renal Failure,ZZ25
+2450,Other Infectious Diseases,ZZ21
+2451,Maternal,O67
+2452,Other Infectious Diseases,W00
+2453,Pneumonia,A15
+2454,Other Infectious Diseases,ZZ21
+2455,Maternal,ZZ23
+2456,Bite of Venomous Animal,ZZ21
+2457,Other Infectious Diseases,ZZ23
+2458,Poisonings,Y00
+2459,Pneumonia,J12
+2460,Poisonings,ZZ21
+2461,Stroke,I64
+2462,Other Infectious Diseases,ZZ21
+2463,Diabetes,I21
+2464,Renal Failure,ZZ25
+2465,COPD,J33
+2466,Stroke,ZZ23
+2467,Other Infectious Diseases,A15
+2468,Other Infectious Diseases,I64
+2469,IHD - Acute Myocardial Infarction,I21
+2470,Stroke,I64
+2471,Stroke,I64
+2472,Diabetes,E10
+2473,Stroke,ZZ25
+2474,Maternal,O67
+2475,Pneumonia,ZZ21
+2476,Maternal,ZZ21
+2477,Other Injuries,ZZ27
+2478,Pneumonia,A15
+2479,Maternal,O67
+2480,Stroke,ZZ27
+2481,Suicide,ZZ27
+2482,Pneumonia,ZZ25
+2483,Suicide,X70
+2484,Pneumonia,N17
+2485,Pneumonia,J12
+2486,Other Cardiovascular Diseases,I64
+2487,AIDS,B20
+2488,Homicide,T36
+2489,Poisonings,T36
+2490,Other Infectious Diseases,ZZ21
+2491,Renal Failure,J45
+2492,Other Infectious Diseases,A15
+2493,Pneumonia,ZZ23
+2494,Diabetes,E10
+2495,Other Infectious Diseases,B54
+2496,Renal Failure,J33
+2497,Other Infectious Diseases,ZZ21
+2498,Other Non-communicable Diseases,I64
+2499,Diabetes,E10
+2500,Stroke,ZZ23
+2501,Other Infectious Diseases,B20
+2502,Renal Failure,ZZ25
+2503,Other Injuries,ZZ27
+2504,Suicide,X70
+2505,Stroke,I64
+2506,Suicide,X70
+2507,Maternal,O67
+2508,Renal Failure,ZZ25
+2509,Drowning,W65
+2510,Maternal,O67
+2511,Cirrhosis,ZZ21
+2512,Other Infectious Diseases,ZZ25
+2513,Stroke,E10
+2514,Maternal,O67
+2515,Other Infectious Diseases,ZZ23
+2516,Other Infectious Diseases,B54
+2517,Other Infectious Diseases,ZZ23
+2518,Diabetes,A09
+2519,Stroke,I64
+2520,Other Infectious Diseases,ZZ25
+2521,AIDS,B20
+2522,Cirrhosis,E10
+2523,Pneumonia,E10
+2524,Stroke,I64
+2525,Renal Failure,I21
+2526,Maternal,ZZ23
+2527,Stroke,ZZ23
+2528,Stroke,ZZ23
+2529,Cirrhosis,ZZ21
+2530,Pneumonia,J12
+2531,Stroke,I64
+2532,COPD,J33
+2533,Bite of Venomous Animal,X20
+2534,Poisonings,J12
+2535,Other Infectious Diseases,O67
+2536,Pneumonia,ZZ21
+2537,Pneumonia,A15
+2538,Renal Failure,ZZ23
+2539,Road Traffic,ZZ27
+2540,Stroke,I64
+2541,Pneumonia,J12
+2542,Maternal,ZZ23
+2543,Renal Failure,J33
+2544,Diabetes,E10
+2545,Cirrhosis,ZZ25
+2546,Other Injuries,ZZ27
+2547,Stroke,V99
+2548,Stroke,I64
+2549,Pneumonia,J33
+2550,Pneumonia,I64
+2551,Stroke,ZZ23
+2552,Pneumonia,ZZ21
+2553,Other Infectious Diseases,K71
+2554,Poisonings,I21
+2555,Diabetes,I64
+2556,Stroke,ZZ23
+2557,Other Infectious Diseases,ZZ21
+2558,Renal Failure,ZZ25
+2559,Diabetes,E10
+2560,Stroke,I64
+2561,Suicide,X20
+2562,Maternal,O67
+2563,Diarrhea/Dysentery,J12
+2564,Cirrhosis,K71
+2565,IHD - Acute Myocardial Infarction,I21
+2566,Other Non-communicable Diseases,A16
+2567,Other Injuries,V99
+2568,Stroke,W00
+2569,IHD - Acute Myocardial Infarction,J12
+2570,IHD - Acute Myocardial Infarction,I21
+2571,Other Injuries,I21
+2572,AIDS,B20
+2573,Other Non-communicable Diseases,ZZ25
+2574,Maternal,O67
+2575,IHD - Acute Myocardial Infarction,I21
+2576,Diabetes,ZZ25
+2577,Other Cardiovascular Diseases,ZZ23
+2578,Renal Failure,A09
+2579,Pneumonia,A15
+2580,AIDS,B20
+2581,Maternal,O67
+2582,IHD - Acute Myocardial Infarction,J12
+2583,Other Cardiovascular Diseases,J12
+2584,Pneumonia,V99
+2585,TB,A15
+2586,Stroke,I64
+2587,Pneumonia,ZZ23
+2588,Other Infectious Diseases,I21
+2589,IHD - Acute Myocardial Infarction,I21
+2590,IHD - Acute Myocardial Infarction,I21
+2591,IHD - Acute Myocardial Infarction,I64
+2592,IHD - Acute Myocardial Infarction,I21
+2593,AIDS,B20
+2594,Stroke,V99
+2595,Maternal,W00
+2596,AIDS,B20
+2597,Renal Failure,D05
+2598,Pneumonia,I21
+2599,Pneumonia,A15
+2600,IHD - Acute Myocardial Infarction,I21
+2601,IHD - Acute Myocardial Infarction,I21
+2602,Diabetes,A09
+2603,Diabetes,ZZ30
+2604,Other Non-communicable Diseases,B20
+2605,Other Non-communicable Diseases,I64
+2606,Breast Cancer,W00
+2607,Other Cardiovascular Diseases,A09
+2608,Homicide,Y00
+2609,Stroke,E10
+2610,Diabetes,A09
+2611,Stroke,I21
+2612,Stroke,I64
+2613,Renal Failure,A15
+2614,Other Cardiovascular Diseases,I64
+2615,Renal Failure,A09
+2616,IHD - Acute Myocardial Infarction,I21
+2617,Stroke,I64
+2618,Renal Failure,ZZ25
+2619,IHD - Acute Myocardial Infarction,I21
+2620,Cirrhosis,ZZ21
+2621,Stroke,ZZ25
+2622,Maternal,O67
+2623,IHD - Acute Myocardial Infarction,K71
+2624,Other Cardiovascular Diseases,ZZ25
+2625,Other Cardiovascular Diseases,E10
+2626,Cirrhosis,K71
+2627,AIDS,ZZ25
+2628,Renal Failure,ZZ25
+2629,Maternal,O67
+2630,IHD - Acute Myocardial Infarction,I21
+2631,Renal Failure,ZZ21
+2632,Maternal,O67
+2633,IHD - Acute Myocardial Infarction,E10
+2634,Suicide,I64
+2635,Pneumonia,ZZ23
+2636,Other Non-communicable Diseases,ZZ21
+2637,IHD - Acute Myocardial Infarction,I21
+2638,Other Infectious Diseases,ZZ21
+2639,Diabetes,ZZ21
+2640,IHD - Acute Myocardial Infarction,I21
+2641,Renal Failure,J45
+2642,Stroke,J33
+2643,Bite of Venomous Animal,ZZ27
+2644,IHD - Acute Myocardial Infarction,W00
+2645,Other Infectious Diseases,A15
+2646,COPD,J33
+2647,Stroke,I64
+2648,Cervical Cancer,ZZ25
+2649,Maternal,ZZ21
+2650,Cervical Cancer,A16
+2651,Other Non-communicable Diseases,E10
+2652,IHD - Acute Myocardial Infarction,I21
+2653,Cirrhosis,ZZ25
+2654,AIDS,Y00
+2655,Suicide,T36
+2656,Stroke,ZZ23
+2657,Stroke,I64
+2658,Diabetes,A15
+2659,TB,J33
+2660,Stroke,I64
+2661,Stroke,ZZ23
+2662,Stroke,ZZ25
+2663,Stroke,I64
+2664,AIDS,B20
+2665,Stroke,ZZ23
+2666,Stroke,W00
+2667,Stroke,I64
+2668,Renal Failure,ZZ25
+2669,Other Infectious Diseases,I64
+2670,Pneumonia,ZZ21
+2671,IHD - Acute Myocardial Infarction,I21
+2672,Other Infectious Diseases,J33
+2673,Cirrhosis,ZZ21
+2674,Poisonings,ZZ27
+2675,Other Infectious Diseases,ZZ21
+2676,Other Infectious Diseases,J45
+2677,Pneumonia,E10
+2678,Diabetes,K71
+2679,Maternal,O67
+2680,Other Infectious Diseases,ZZ27
+2681,Maternal,O67
+2682,Drowning,ZZ27
+2683,Falls,ZZ27
+2684,Renal Failure,O67
+2685,Suicide,ZZ27
+2686,IHD - Acute Myocardial Infarction,I21
+2687,Fires,ZZ27
+2688,Homicide,ZZ27
+2689,Homicide,Y00
+2690,Maternal,O67
+2691,Fires,ZZ27
+2692,Drowning,ZZ27
+2693,Fires,ZZ27
+2694,Drowning,W65
+2695,Drowning,ZZ25
+2696,Fires,ZZ27
+2697,Drowning,W65
+2698,Homicide,Y00
+2699,Pneumonia,ZZ23
+2700,IHD - Acute Myocardial Infarction,I21
+2701,Cirrhosis,K71
